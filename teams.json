@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "name": "yohei_yayoi",
+        "role": [
+            "Co-Founder",
+            "Game Scripter",
+            "Game UX/UI",
+            "Web Developer"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "p_2009.",
+        "role": [
+            "Co-Founder",
+            "Game Modeler",
+            "Game Animator",
+            "Game Artist"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "isosadmakmak",
+        "role": [
+            "Co-Founder",
+            "Game Artist"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "mr.toon7044",
+        "role": [
+            "Game Modeler",
+            "Game Animator"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "kieliejokjok",
+        "role": [
+            "Game Modeler"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "_rexel_",
+        "role": [
+            "Partner",
+            "Game Scripter",
+            "Game UX/UI",
+            "Game VFX"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "beelbellx",
+        "role": [
+            "Partner",
+            "Game UX/UI",
+            "Web Developer"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "bosnoz",
+        "role": [
+            "Partner",
+            "Game Scripter"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "realskyformxv",
+        "role": [
+            "Partner",
+            "Game Scripter"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "argonair",
+        "role": [
+            "Partner",
+            "Game Scripter"
+        ]
+    }
+]
