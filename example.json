@@ -20,16 +20,6 @@
         "date": "04/10/2022"
       },
       {
-        "id": 3,
-        "label": "โลโก้นิยายพงศาวดารจักรพรรดิมาร",
-        "value": "Image",
-        "image": "https://m1r.ai/9/ni9ur.png",
-        "desc": "โลโก้นิยายเรื่อง พงศาวดารจักรพรรดิมาร",
-	"price": 0,
-	"note": "ตัวอย่างงาน",
-        "date": "04/10/2022"
-      },
-      {
         "id": 4,
         "label": "nontkph.netlify.app",
         "value": "Website",
